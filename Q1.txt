@@ -1,0 +1,3 @@
+I am learning python.
+Python is an easy language.
+I like python.
